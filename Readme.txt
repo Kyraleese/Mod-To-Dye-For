@@ -22,6 +22,7 @@ Installation instructions:
 Install Modloader.  Make sure you remove the META-INF folder.
 Place the .class files included in the zip file into your minecraft jar.
 Place the terrain.png file included into your jar as well.
+Place the mod_todyefor.props folder in your base .minecraft folder
 
 NOTE: If you wish to make this mod work with another texture pack, you will need to modify the texture pack's terrain.png file.  You need to add three new textures to the following slots:
 226: Stone
@@ -33,3 +34,5 @@ Please note that I have not personally tested this yet.
 
 For more information, please visit:
 http://to-dye-for.posterous.com/
+
+Last but not least, it should go without saying:  I am not responsible for any damage done to your minecraft installs, including the game itself or any save files.  Back your stuff up, always!
